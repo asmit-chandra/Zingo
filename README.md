@@ -56,7 +56,7 @@ For medical professionals (psychologists and counsellors) - You can help the men
 
 - **Website 👉 https://zingo.ml**
 
-- **Screenshots 👉 https://github.com/asmit-chandra/Zingo/tree/main/images/screenshots**
+- **Screenshots 👉 https://github.com/asmit-chandra/Zingo/tree/master/images/screenshots**
 
 - **Demonstration video 👇**
 
